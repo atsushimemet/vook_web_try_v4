@@ -32,3 +32,4 @@
 - [x] Contact を新規登録に変更
 - [x] Facebook/Twitter を Instagram/TikTok に変更
 - [x] Travel the world を Search に変更
+- [x] Find Your House を Read Articles and Study Vintage に変更
