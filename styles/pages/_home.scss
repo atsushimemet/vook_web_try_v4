@@ -91,7 +91,7 @@ main {
   @extend .pb-lg;
 }
 
-.travel {
+.search {
   @extend .content-width;
   @extend .mb-lg;
 
@@ -148,7 +148,7 @@ main {
     }
 
     &.inview {
-      & .travel__title::before {
+      & .search__title::before {
         @include animation($name: scaleX, $duration: 0.3s, $delay: 1.5s);
       }
     }
