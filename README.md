@@ -33,3 +33,8 @@
 - [x] Facebook/Twitter を Instagram/TikTok に変更
 - [x] Travel the world を Search に変更
 - [x] Find Your House を Read Articles and Study Vintage に変更
+- [x] Popular Place をコミュニティに変更
+  - [x] ヴィンテージの日記を共有する
+  - [x] ヴィンテージのアイテムを共有する
+  - [x] ヴィンテージのアイテムを売買する
+  - [x] ヴィンテージのアイテムを判別する
