@@ -22,3 +22,4 @@
   - [x] COMPANY を Search に変更
   - [x] About Us を Search に変更
 - [x] SEARCH の横に Article を追加
+- [x] Article の横に Community を追加
