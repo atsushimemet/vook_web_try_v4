@@ -397,10 +397,10 @@ main {
     background-size: contain;
   }
 
-  &.twitter::before {
-    background-image: url(../images/twitter.svg);
+  &.tiktok::before {
+    background-image: url(../images/tiktok.svg);
   }
-  &.fb::before {
-    background-image: url(../images/facebook.svg);
+  &.instagram::before {
+    background-image: url(../images/instagram.svg);
   }
 }

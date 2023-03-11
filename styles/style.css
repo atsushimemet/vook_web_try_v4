@@ -1084,9 +1084,9 @@ main {
   background-repeat: none;
   background-size: contain;
 }
-.icon.twitter::before {
-  background-image: url(../images/twitter.svg);
+.icon.tiktok::before {
+  background-image: url(../images/tiktok.svg);
 }
-.icon.fb::before {
-  background-image: url(../images/facebook.svg);
+.icon.instagram::before {
+  background-image: url(../images/instagram.svg);
 }/*# sourceMappingURL=style.css.map */
