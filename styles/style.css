@@ -1023,8 +1023,9 @@ main {
   font-size: 42px;
   display: flex;
 }
-.logo__world {
-  color: #904669;
+.logo__vook {
+  font-weight: 900;
+  letter-spacing: 2px;
 }
 
 .side {

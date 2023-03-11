@@ -328,8 +328,9 @@ main {
   font-size: 42px;
   display: flex;
 
-  &__world {
-    color: $cWineRed;
+  &__vook {
+    font-weight: 900;
+    letter-spacing: 2px;
   }
 }
 
