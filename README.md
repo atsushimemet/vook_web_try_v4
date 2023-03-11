@@ -31,3 +31,4 @@
 - [x] .header と#content の間に線挿入
 - [x] Contact を新規登録に変更
 - [x] Facebook/Twitter を Instagram/TikTok に変更
+- [x] Travel the world を Search に変更
