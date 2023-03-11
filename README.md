@@ -24,3 +24,4 @@
 - [x] SEARCH の横に Article を追加
 - [x] Article の横に Community を追加
 - [x] Title の変更
+- [x] favicon の設定
