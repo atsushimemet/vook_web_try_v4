@@ -984,6 +984,10 @@ main {
   text-align: center;
   flex-basis: 100%;
 }
+.community__btn__lower_text {
+  font-weight: lighter;
+  font-size: smaller;
+}
 
 .footer {
   padding: 60px 0;
