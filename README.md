@@ -18,3 +18,6 @@
   - [x] 英語
   - [x] 左上の Vook の太さを変更
 - [x] SERVICE を About に変更
+- [x] COMPANY を Search に変更
+  - [x] COMPANY を Search に変更
+  - [x] About Us を Search に変更
