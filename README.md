@@ -25,3 +25,7 @@
 - [x] Article の横に Community を追加
 - [x] Title の変更
 - [x] favicon の設定
+- [x] 画像の差し替え
+  - [x] 画像の差し替え
+  - [x] テキストの差し替え
+- [ ]
