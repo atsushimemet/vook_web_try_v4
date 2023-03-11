@@ -4,3 +4,7 @@
 - [x] head の準備
   - [x] title の変更
   - [x] css の準備
+- [x] 画像の準備
+  - [x] 画像の移動
+  - [x] gitignore に画像を追加
+- [ ] js の準備
